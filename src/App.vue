@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="bg-green-600 py-56 min-h-screen">
     <div class="container mx-auto text-center px-8">
-      <div class="fit">
+      <div class="vh-100">
         <img src="./assets/v2.png">
       </div>
       <h2 class="text-3xl lg:text-6xl font-bold mb-2 text-white">Welcome to Your Vue App</h2>
