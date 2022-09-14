@@ -1,9 +1,9 @@
-name: sample-vuejs
+name: meh-liebi
 services:
 - build_command: yarn build
   environment_slug: node-js
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-vuejs
-  name: sample-vuejs
+    repo: clubvariete/meh-liebi
+  name: meh-liebi
