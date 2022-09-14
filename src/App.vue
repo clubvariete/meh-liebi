@@ -1,6 +1,8 @@
 <template>
-  <div id="app" class="bg-green-600 py-56 min-h-screen">
-    <div class="container mx-auto text-center px-8">
+  <div id="app" class="vh-100">
+    <!-- bg-green-600 py-56 min-h-screen -->
+    <div class="container text-center px-8">
+      <!--  mx-auto  -->
       <div class="vh-100">
         <img src="./assets/v2.png">
       </div>
