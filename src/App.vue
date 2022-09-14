@@ -2,7 +2,7 @@
   <div id="app" class="bg-green-600 py-56 min-h-screen">
     <div class="container mx-auto text-center px-8">
       <div class="fit">
-        <img :src="./assets/v2.png">
+        <img src="./assets/v2.png">
       </div>
       <h2 class="text-3xl lg:text-6xl font-bold mb-2 text-white">Welcome to Your Vue App</h2>
       <h3 class="text-xl lg:text-4xl text-green-200">
